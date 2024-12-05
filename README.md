@@ -1,16 +1,261 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**IK0xAKSR/IK0xAKSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Bienvenue sur mon GitHub ! 👋
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 À propos de moi
+Développeur passionné, je travaille sur des projets innovants avec plusieurs langages.
+
+---
+
+### 🚀 Stack technique
+
+| Langage   | Niveau        | Projets favoris           |
+|-----------|---------------|---------------------------|
+| Python 🐍   | Expert 🌟      | Outils d’automatisation, IA |
+| Java ☕    | Confirmé 🔧   | Développement d'APIs       |
+| HTML/CSS 🌐| Avancé 🎨    | Sites dynamiques           |
+| C++ 💾     | Débutant      | Algorithmes bas niveau     |
+
+---
+
+### 🌟 Fun facts
+- 🌌 Toujours en quête d’apprendre et d’innover.
+- 💬 Contacte-moi pour collaborer ou partager des idées.
+
+</div><div align="center">
+
+# 💻 Bienvenue sur mon GitHub ! 👋
+
+---
+
+### 👨‍💻 À propos de moi
+Développeur passionné, je travaille sur des projets innovants avec plusieurs langages.
+
+---
+
+### 🚀 Stack technique
+
+| Langage   | Niveau        | Projets favoris           |
+|-----------|---------------|---------------------------|
+| Python 🐍   | Expert 🌟      | Outils d’automatisation, IA |
+| Java ☕    | Confirmé 🔧   | Développement d'APIs       |
+| HTML/CSS 🌐| Avancé 🎨    | Sites dynamiques           |
+| C++ 💾     | Débutant      | Algorithmes bas niveau     |
+
+---
+
+### 🌟 Fun facts
+- 🌌 Toujours en quête d’apprendre et d’innover.
+- 💬 Contacte-moi pour collaborer ou partager des idées.
+
+</div><div align="center">
+
+# 💻 Bienvenue sur mon GitHub ! 👋
+
+---
+
+### 👨‍💻 À propos de moi
+Développeur passionné, je travaille sur des projets innovants avec plusieurs langages.
+
+---
+
+### 🚀 Stack technique
+
+| Langage   | Niveau        | Projets favoris           |
+|-----------|---------------|---------------------------|
+| Python 🐍   | Expert 🌟      | Outils d’automatisation, IA |
+| Java ☕    | Confirmé 🔧   | Développement d'APIs       |
+| HTML/CSS 🌐| Avancé 🎨    | Sites dynamiques           |
+| C++ 💾     | Débutant      | Algorithmes bas niveau     |
+
+---
+
+### 🌟 Fun facts
+- 🌌 Toujours en quête d’apprendre et d’innover.
+- 💬 Contacte-moi pour collaborer ou partager des idées.
+
+</div><div align="center">
+
+# 💻 Bienvenue sur mon GitHub ! 👋
+
+---
+
+### 👨‍💻 À propos de moi
+Développeur passionné, je travaille sur des projets innovants avec plusieurs langages.
+
+---
+
+### 🚀 Stack technique
+
+| Langage   | Niveau        | Projets favoris           |
+|-----------|---------------|---------------------------|
+| Python 🐍   | Expert 🌟      | Outils d’automatisation, IA |
+| Java ☕    | Confirmé 🔧   | Développement d'APIs       |
+| HTML/CSS 🌐| Avancé 🎨    | Sites dynamiques           |
+| C++ 💾     | Débutant      | Algorithmes bas niveau     |
+
+---
+
+### 🌟 Fun facts
+- 🌌 Toujours en quête d’apprendre et d’innover.
+- 💬 Contacte-moi pour collaborer ou partager des idées.
+
+</div><div align="center">
+
+# 💻 Bienvenue sur mon GitHub ! 👋
+
+---
+
+### 👨‍💻 À propos de moi
+Développeur passionné, je travaille sur des projets innovants avec plusieurs langages.
+
+---
+
+### 🚀 Stack technique
+
+| Langage   | Niveau        | Projets favoris           |
+|-----------|---------------|---------------------------|
+| Python 🐍   | Expert 🌟      | Outils d’automatisation, IA |
+| Java ☕    | Confirmé 🔧   | Développement d'APIs       |
+| HTML/CSS 🌐| Avancé 🎨    | Sites dynamiques           |
+| C++ 💾     | Débutant      | Algorithmes bas niveau     |
+
+---
+
+### 🌟 Fun facts
+- 🌌 Toujours en quête d’apprendre et d’innover.
+- 💬 Contacte-moi pour collaborer ou partager des idées.
+
+</div><div align="center">
+
+# 💻 Bienvenue sur mon GitHub ! 👋
+
+---
+
+### 👨‍💻 À propos de moi
+Développeur passionné, je travaille sur des projets innovants avec plusieurs langages.
+
+---
+
+### 🚀 Stack technique
+
+| Langage   | Niveau        | Projets favoris           |
+|-----------|---------------|---------------------------|
+| Python 🐍   | Expert 🌟      | Outils d’automatisation, IA |
+| Java ☕    | Confirmé 🔧   | Développement d'APIs       |
+| HTML/CSS 🌐| Avancé 🎨    | Sites dynamiques           |
+| C++ 💾     | Débutant      | Algorithmes bas niveau     |
+
+---
+
+### 🌟 Fun facts
+- 🌌 Toujours en quête d’apprendre et d’innover.
+- 💬 Contacte-moi pour collaborer ou partager des idées.
+
+</div><div align="center">
+
+# 💻 Bienvenue sur mon GitHub ! 👋
+
+---
+
+### 👨‍💻 À propos de moi
+Développeur passionné, je travaille sur des projets innovants avec plusieurs langages.
+
+---
+
+### 🚀 Stack technique
+
+| Langage   | Niveau        | Projets favoris           |
+|-----------|---------------|---------------------------|
+| Python 🐍   | Expert 🌟      | Outils d’automatisation, IA |
+| Java ☕    | Confirmé 🔧   | Développement d'APIs       |
+| HTML/CSS 🌐| Avancé 🎨    | Sites dynamiques           |
+| C++ 💾     | Débutant      | Algorithmes bas niveau     |
+
+---
+
+### 🌟 Fun facts
+- 🌌 Toujours en quête d’apprendre et d’innover.
+- 💬 Contacte-moi pour collaborer ou partager des idées.
+
+</div><div align="center">
+
+# 💻 Bienvenue sur mon GitHub ! 👋
+
+---
+
+### 👨‍💻 À propos de moi
+Développeur passionné, je travaille sur des projets innovants avec plusieurs langages.
+
+---
+
+### 🚀 Stack technique
+
+| Langage   | Niveau        | Projets favoris           |
+|-----------|---------------|---------------------------|
+| Python 🐍   | Expert 🌟      | Outils d’automatisation, IA |
+| Java ☕    | Confirmé 🔧   | Développement d'APIs       |
+| HTML/CSS 🌐| Avancé 🎨    | Sites dynamiques           |
+| C++ 💾     | Débutant      | Algorithmes bas niveau     |
+
+---
+
+### 🌟 Fun facts
+- 🌌 Toujours en quête d’apprendre et d’innover.
+- 💬 Contacte-moi pour collaborer ou partager des idées.
+
+</div><div align="center">
+
+# 💻 Bienvenue sur mon GitHub ! 👋
+
+---
+
+### 👨‍💻 À propos de moi
+Développeur passionné, je travaille sur des projets innovants avec plusieurs langages.
+
+---
+
+### 🚀 Stack technique
+
+| Langage   | Niveau        | Projets favoris           |
+|-----------|---------------|---------------------------|
+| Python 🐍   | Expert 🌟      | Outils d’automatisation, IA |
+| Java ☕    | Confirmé 🔧   | Développement d'APIs       |
+| HTML/CSS 🌐| Avancé 🎨    | Sites dynamiques           |
+| C++ 💾     | Débutant      | Algorithmes bas niveau     |
+
+---
+
+### 🌟 Fun facts
+- 🌌 Toujours en quête d’apprendre et d’innover.
+- 💬 Contacte-moi pour collaborer ou partager des idées.
+
+</div><div align="center">
+
+# 💻 Bienvenue sur mon GitHub ! 👋
+
+---
+
+### 👨‍💻 À propos de moi
+Développeur passionné, je travaille sur des projets innovants avec plusieurs langages.
+
+---
+
+### 🚀 Stack technique
+
+| Langage   | Niveau        | Projets favoris           |
+|-----------|---------------|---------------------------|
+| Python 🐍   | Expert 🌟      | Outils d’automatisation, IA |
+| Java ☕    | Confirmé 🔧   | Développement d'APIs       |
+| HTML/CSS 🌐| Avancé 🎨    | Sites dynamiques           |
+| C++ 💾     | Débutant      | Algorithmes bas niveau     |
+
+---
+
+### 🌟 Fun facts
+- 🌌 Toujours en quête d’apprendre et d’innover.
+- 💬 Contacte-moi pour collaborer ou partager des idées.
+
+</div>
