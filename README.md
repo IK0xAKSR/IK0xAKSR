@@ -22,14 +22,7 @@ Développeur passionné, je travaille sur des projets innovants avec plusieurs l
 | Kotlin 📱 | Confirmé 🔧   | 
 
 - **Langages maîtrisés** : 
-  ![C++](cplusplus_logo.png) ![C#](csharp_logo.png) ![JavaScript](javascript_logo.png) ![HTML5](html5_logo.png) ![CSS3](css3_logo.png)
-
-### Technologies de Bases de Données 💾
-![MongoDB](mongodb_logo.png) ![MySQL](mysql_logo.png)
-
-### Logiciels Acquis 💻
-![Adobe Photoshop](adobephotoshop_logo.png) ![Adobe After Effects](adobeaftereffects_logo.png) ![Adobe Illustrator](adobeillustrator_logo.png) ![Visual Studio](visualstudio_logo.png) ![VS Code](vscode_logo.png)
-
+![C#] ![JavaScript]) ![HTML5] ![CSS3]
 ---
 
 ## 🌱 En cours d'apprentissage
